@@ -7,5 +7,5 @@
 **NOTE**: The CONFIG section in the notebook can be modified to experiment with different settings or on other Cryptos.
 
 
-Refer to the blog on medium to get more details on the analysis.
+Refer to this blog on medium to get more insights from the charts: https://lakshmi1212.medium.com/identifying-trading-patterns-behavioural-analysis-of-traders-5184dfa0350b
 
